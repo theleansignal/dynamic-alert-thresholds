@@ -16,7 +16,7 @@ Results on the simulated data (last 16 days):
 | Static (> 950 or < 100 req/min) | 67 | 0 of 2 |
 | Dynamic, K = 4 | 3 | 2 of 2 |
 
-- Video: *link coming*
+- Video: [Watch on YouTube](https://www.youtube.com/watch?v=kbJgkAzOjqg)
 - Article: *link coming*
 
 ## Run locally (no AWS)
